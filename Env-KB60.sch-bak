@@ -2145,7 +2145,7 @@ U 1 1 60A79FC4
 P 1200 3850
 F 0 "K_44" H 1200 4083 60  0000 C CNN
 F 1 "KEYSW" H 1200 3750 60  0001 C CNN
-F 2 "MX_Only:MXOnly-2.25U-NoLED" H 1200 3850 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED" H 1200 3850 60  0001 C CNN
 F 3 "" H 1200 3850 60  0000 C CNN
 	1    1200 3850
 	1    0    0    -1  
@@ -2160,4 +2160,70 @@ Wire Wire Line
 Wire Wire Line
 	1150 4150 1350 4150
 Connection ~ 1350 4150
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6076A53B
+P 7300 6600
+F 0 "H1" H 7400 6646 50  0000 L CNN
+F 1 "MountingHole" H 7400 6555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7300 6600 50  0001 C CNN
+F 3 "~" H 7300 6600 50  0001 C CNN
+	1    7300 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6076BA3D
+P 7300 6750
+F 0 "H2" H 7400 6796 50  0000 L CNN
+F 1 "MountingHole" H 7400 6705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7300 6750 50  0001 C CNN
+F 3 "~" H 7300 6750 50  0001 C CNN
+	1    7300 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6077D67F
+P 7300 6900
+F 0 "H3" H 7400 6946 50  0000 L CNN
+F 1 "MountingHole" H 7400 6855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7300 6900 50  0001 C CNN
+F 3 "~" H 7300 6900 50  0001 C CNN
+	1    7300 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6078F20E
+P 7300 7050
+F 0 "H4" H 7400 7096 50  0000 L CNN
+F 1 "MountingHole" H 7400 7005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7300 7050 50  0001 C CNN
+F 3 "~" H 7300 7050 50  0001 C CNN
+	1    7300 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 607A12FF
+P 7300 7200
+F 0 "H5" H 7400 7246 50  0000 L CNN
+F 1 "MountingHole" H 7400 7155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7300 7200 50  0001 C CNN
+F 3 "~" H 7300 7200 50  0001 C CNN
+	1    7300 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 607B2F46
+P 7300 7350
+F 0 "H6" H 7400 7396 50  0000 L CNN
+F 1 "MountingHole" H 7400 7305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7300 7350 50  0001 C CNN
+F 3 "~" H 7300 7350 50  0001 C CNN
+	1    7300 7350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
