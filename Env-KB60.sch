@@ -2017,4 +2017,15 @@ Wire Wire Line
 	13800 950  13800 1950
 Wire Wire Line
 	15800 950  15800 2950
+$Comp
+L MCU_RaspberryPi_and_Boards:Pico U1
+U 1 1 6083B244
+P 5150 7900
+F 0 "U1" H 5150 9115 50  0000 C CNN
+F 1 "Pico" H 5150 9024 50  0000 C CNN
+F 2 "RPi_Pico:RPi_Pico_SMD_TH" V 5150 7900 50  0001 C CNN
+F 3 "" H 5150 7900 50  0001 C CNN
+	1    5150 7900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
