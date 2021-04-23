@@ -2023,7 +2023,7 @@ U 1 1 6083B244
 P 5150 7900
 F 0 "U1" H 5150 9115 50  0000 C CNN
 F 1 "Pico" H 5150 9024 50  0000 C CNN
-F 2 "RPi_Pico:RPi_Pico_SMD_TH" V 5150 7900 50  0001 C CNN
+F 2 "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" V 5150 7900 50  0001 C CNN
 F 3 "" H 5150 7900 50  0001 C CNN
 	1    5150 7900
 	1    0    0    -1  
@@ -2094,15 +2094,18 @@ F 3 "~" H 7050 8050 50  0001 C CNN
 	1    7050 8050
 	1    0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole H7
-U 1 1 60891579
-P 7050 8250
-F 0 "H7" H 7150 8296 50  0000 L CNN
-F 1 "MountingHole" H 7150 8205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 7050 8250 50  0001 C CNN
-F 3 "~" H 7050 8250 50  0001 C CNN
-	1    7050 8250
-	1    0    0    -1  
-$EndComp
+Text GLabel 4450 7650 0    50   Input ~ 0
+GND
+Text GLabel 4450 7150 0    50   Input ~ 0
+GND
+Text GLabel 4450 8150 0    50   Input ~ 0
+GND
+Text GLabel 4450 8650 0    50   Input ~ 0
+GND
+Text GLabel 5850 8650 2    50   Input ~ 0
+GND
+Text GLabel 5850 8150 2    50   Input ~ 0
+GND
+Text GLabel 5850 7150 2    50   Input ~ 0
+GND
 $EndSCHEMATC
