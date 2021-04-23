@@ -2028,4 +2028,81 @@ F 3 "" H 5150 7900 50  0001 C CNN
 	1    5150 7900
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6083D20F
+P 7050 7050
+F 0 "H1" H 7150 7096 50  0000 L CNN
+F 1 "MountingHole" H 7150 7005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 7050 50  0001 C CNN
+F 3 "~" H 7050 7050 50  0001 C CNN
+	1    7050 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6083EAFA
+P 7050 7250
+F 0 "H2" H 7150 7296 50  0000 L CNN
+F 1 "MountingHole" H 7150 7205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 7250 50  0001 C CNN
+F 3 "~" H 7050 7250 50  0001 C CNN
+	1    7050 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6084F3C0
+P 7050 7450
+F 0 "H3" H 7150 7496 50  0000 L CNN
+F 1 "MountingHole" H 7150 7405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 7450 50  0001 C CNN
+F 3 "~" H 7050 7450 50  0001 C CNN
+	1    7050 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 608603D5
+P 7050 7650
+F 0 "H4" H 7150 7696 50  0000 L CNN
+F 1 "MountingHole" H 7150 7605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 7650 50  0001 C CNN
+F 3 "~" H 7050 7650 50  0001 C CNN
+	1    7050 7650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 60870931
+P 7050 7850
+F 0 "H5" H 7150 7896 50  0000 L CNN
+F 1 "MountingHole" H 7150 7805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 7850 50  0001 C CNN
+F 3 "~" H 7050 7850 50  0001 C CNN
+	1    7050 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 60880F81
+P 7050 8050
+F 0 "H6" H 7150 8096 50  0000 L CNN
+F 1 "MountingHole" H 7150 8005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 8050 50  0001 C CNN
+F 3 "~" H 7050 8050 50  0001 C CNN
+	1    7050 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 60891579
+P 7050 8250
+F 0 "H7" H 7150 8296 50  0000 L CNN
+F 1 "MountingHole" H 7150 8205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 7050 8250 50  0001 C CNN
+F 3 "~" H 7050 8250 50  0001 C CNN
+	1    7050 8250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
